@@ -2,4 +2,5 @@
 
 My first unity project 
 
-[![Alt 2DShooter](https://youtu.be/ozxFWxndddk)](https://youtu.be/ozxFWxndddk)
+![2DShooter](https://media.giphy.com/media/3o6fJf12Me2rl0U2Yg/giphy.gif)
+
